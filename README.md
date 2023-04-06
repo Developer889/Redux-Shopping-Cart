@@ -1,2 +1,2 @@
 # Redux-Shopping-Cart
-Added Total Functionality
+[View Live](https://snack.expo.dev/@ehtesham1090/redux-project-practice)
